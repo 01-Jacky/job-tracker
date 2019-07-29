@@ -1,6 +1,6 @@
-# React Sandbox
+# Job Tracker
 
-Final Project for SMC JS classs
+Job tracking manager
 
 ## Installation
 

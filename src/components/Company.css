@@ -1,0 +1,15 @@
+.Company {
+  /* text-align: center; */
+  border: solid;
+  margin: 0.5em 3em;
+  min-width: 25em;
+}
+
+.Company-name{
+  margin-top: 1.2em;
+}
+
+.Company-delete{
+  float: right;
+  font-size: .3em;
+}

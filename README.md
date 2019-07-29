@@ -1,6 +1,7 @@
 # Job Tracker
 
 Job tracking manager
+![alt text](screen.png "Title")
 
 ## Installation
 
